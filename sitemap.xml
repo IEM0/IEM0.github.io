@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/2021/08/07/article-title2/</loc>
+    
+    <lastmod>2021-08-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/08/07/hello-world/</loc>
     
     <lastmod>2021-08-07</lastmod>
