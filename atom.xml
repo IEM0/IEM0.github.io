@@ -30,19 +30,6 @@
   </entry>
   
   <entry>
-    <title>article title</title>
-    <link href="http://example.com/2021/08/07/article-title2/"/>
-    <id>http://example.com/2021/08/07/article-title2/</id>
-    <published>2021-08-07T15:45:59.000Z</published>
-    <updated>2021-08-07T15:45:59.623Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2021/08/07/hello-world/"/>
     <id>http://example.com/2021/08/07/hello-world/</id>
