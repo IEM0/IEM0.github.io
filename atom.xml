@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>INFK&#39;s blog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-07T15:45:59.623Z</updated>
+  <updated>2021-08-12T00:23:05.804Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>INFK</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
-    <link href="http://example.com/2021/08/07/article-title/"/>
-    <id>http://example.com/2021/08/07/article-title/</id>
-    <published>2021-08-07T15:45:59.000Z</published>
-    <updated>2021-08-07T15:45:59.623Z</updated>
+    <title></title>
+    <link href="http://example.com/2021/08/12/8.12%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
+    <id>http://example.com/2021/08/12/8.12%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</id>
+    <published>2021-08-12T00:23:05.804Z</published>
+    <updated>2021-08-12T00:23:05.804Z</updated>
     
     
     
