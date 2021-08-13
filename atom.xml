@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-11T12:56:14.151Z</updated>
+  <updated>2021-08-13T14:24:32.882Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/08/13/8.13/"/>
+    <id>http://example.com/2021/08/13/8.13/</id>
+    <published>2021-08-13T13:50:08.823Z</published>
+    <updated>2021-08-13T14:24:32.882Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-8-13"><a href="#title-8-13" class="headerlink" title="title:8.13"></a>title:8.13</h2><p>1st 今天复习了《信号与系统》的傅里叶变换前半章内容。</p><p>2nd 今天还看了考研数学第三章的视频，并且写了一些辅导习题。</p><p>3rd 今天下午看了一场辩论赛，清华大学的水平确实很高。</p><p>4th 学习和娱乐应该分开，但我觉得这种调剂应该视自己而定。</p><p>100分为满分的话</p><p>今天就给自己70分吧</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;title-8-13&quot;&gt;&lt;a href=&quot;#title-8-13&quot; class=&quot;headerlink&quot; title=&quot;title:8.13&quot;&gt;&lt;/a&gt;title:8.13&lt;/h2&gt;&lt;p&gt;1st 今天复习了《信号与系统》的傅里叶变换前半章内容。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇blog</title>
